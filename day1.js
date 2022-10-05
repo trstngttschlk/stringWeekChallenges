@@ -33,4 +33,4 @@ function hiddenMessage(str){
         ).join('')
 }
 
-console.log(hiddenMessage("e!!Igv)t5lltBcvbdeDH3dVw!OOtI#Aa.ZMDu7WYpP^VVjDc4I50iv#ylhgmQfs"))
+console.log(hiddenMessage("PR0-T1P #hqB: 1T'5 N1C3 T0 5AY H3770."))
