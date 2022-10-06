@@ -54,31 +54,4 @@ puns = puns.filter(pun=>!pun.includes('S'))
 console.log(puns)
 console.log(puns.length)
 
-// let words = [  'Mew Peter',
-// 'Pets and the Kitty',
-// 'The Meowpet Show',
-// 'The Pawffice',
-// 'The Pawnight Show',
-// 'Teenage Mewtant Ninja Turtles',
-// 'Paw Trek',
-// 'The Purrlight Zone',
-// 'Meowter Call Saul',
-// 'Rick & Meowty',
-// "Mewster Rogers' Neighborhood"]
-// words = words.map(x=>countUpper(x))
-// console.log(words)
-
-// function findMiddlePlus1(str){
-//     return str.charAt((Math.ceil(str.length))/2)
-// }
-
-// function findHalf(num){
-//     return Math.ceil(num/2)
-// }
-
-// console.log(findHalf(5))
-// console.log(findHalf(6))
-
-// // console.log(findMiddlePlus1('Teenage Mewtant Ninja Turtles'))
-// console.log(findMiddlePlus1('center'))
-// console.log(findMiddlePlus1('weird'))
+// correct answer: [ 'Teenage Mewtant Ninja Turtles', 'Rick & Meowty', "Mewster Rogers' Neighborhood"]
